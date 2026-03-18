@@ -1,0 +1,2 @@
+# Appiah-kubi-samuel-_Python_practical_Assignment_student_version_-1-2-.ipynb
+ML_THRIVE Python_practical_Assignment_student_version
